@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Belajar fetching API dengan AXIOS pada React JS",
+      "blog": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi deserunt accusantium blanditiis dolorum consequuntur laboriosam veniam, earum aliquid iure esse debitis hic deleniti autem voluptate.",
+      "writter": "dzulfikar",
+      "id": "f120"
+    },
+    {
+      "title": "Belajar useState pada React JS",
+      "blog": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi deserunt accusantium blanditiis dolorum consequuntur laboriosam veniam, earum aliquid iure esse debitis hic deleniti autem voluptate.",
+      "writter": "dzulfikar",
+      "id": "b7ff"
+    },
+    {
+      "id": "4648",
+      "title": "qwe",
+      "blog": "qwer",
+      "writter": "panjul"
+    }
+  ]
+}

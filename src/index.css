@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+nav small a.active{
+  @apply p-1 bg-purple-500 rounded-md text-white transition-all hover:text-purple-500 hover:bg-white hover:border-b hover:border-purple-300 ;
+}
